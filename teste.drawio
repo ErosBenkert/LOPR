@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-07T01:05:07.879Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0" etag="s6bfpMmP4hPniEfzLiNr" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-07T01:14:39.755Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0" etag="37nriuAlGBGhxAYQnpcl" version="21.7.2" type="github">
   <diagram name="Página-1" id="r8btl06dpMkSg_a-J9Kt">
     <mxGraphModel dx="607" dy="324" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -306,6 +306,25 @@
             <Array as="points">
               <mxPoint x="804.83" y="550" />
               <mxPoint x="804.83" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8BcACjbe6fQFliUKPnvz-19" value="Recuar" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Georgia;strokeColor=#000000;strokeWidth=2;fontColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="767.5" y="700" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8BcACjbe6fQFliUKPnvz-20" value="Vitória" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Georgia;strokeColor=#000000;strokeWidth=2;fontColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="662.5" y="700" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8BcACjbe6fQFliUKPnvz-21" value="Derrota" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Georgia;strokeColor=#000000;strokeWidth=2;fontColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="877.5" y="700" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8BcACjbe6fQFliUKPnvz-22" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="804.83" y="670" as="sourcePoint" />
+            <mxPoint x="804.83" y="690" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="804.83" y="680" />
+              <mxPoint x="804.83" y="680" />
             </Array>
           </mxGeometry>
         </mxCell>
