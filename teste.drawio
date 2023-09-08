@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-08T01:57:27.487Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="QzNrQ6a8fOc_rOIiHGMS" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-08T01:59:40.519Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="stT6Z61P2l-VtCJO7Tcl" version="21.7.2" type="github">
   <diagram name="Página-1" id="r8btl06dpMkSg_a-J9Kt">
-    <mxGraphModel dx="1100" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1467" dy="847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -246,8 +246,8 @@
         <mxCell id="8BcACjbe6fQFliUKPnvz-7" value="&lt;div align=&quot;center&quot;&gt;&lt;font face=&quot;Georgia&quot; color=&quot;#0000ff&quot;&gt;Consome os recursos apresentados (caso disponíveis) e altera a Marginalidade do povoado&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;align=center;" parent="1" vertex="1">
           <mxGeometry x="537.5" y="634" width="92.5" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="8BcACjbe6fQFliUKPnvz-8" value="&lt;font face=&quot;Georgia&quot; color=&quot;#0000ff&quot;&gt;Começa uma batalha contra o povo da região&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="655" y="634" width="80" height="80" as="geometry" />
+        <mxCell id="8BcACjbe6fQFliUKPnvz-8" value="&lt;font face=&quot;Georgia&quot; color=&quot;#0000ff&quot;&gt;Começa uma batalha contra o povo naval da região&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="655" y="634" width="80" height="86" as="geometry" />
         </mxCell>
         <mxCell id="8BcACjbe6fQFliUKPnvz-9" value="&lt;font face=&quot;Georgia&quot; color=&quot;#0000ff&quot;&gt;Abre o mapa-múndi e ilumina os arredores do seu navio&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="765" y="634" width="80" height="80" as="geometry" />
@@ -432,12 +432,10 @@
         </mxCell>
         <mxCell id="mjb3Go6CUSgynstZT9nR-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="630" y="380" as="sourcePoint" />
+            <mxPoint x="630" y="370" as="sourcePoint" />
             <mxPoint x="770" y="320" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="660" y="380" />
-              <mxPoint x="660" y="380" />
-              <mxPoint x="770" y="380" />
+              <mxPoint x="770" y="370" />
             </Array>
           </mxGeometry>
         </mxCell>
