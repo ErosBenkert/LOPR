@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-20T16:47:51.761Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0" etag="wfsnjnBX7ZJn_LC3Z2-5" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-20T16:52:59.870Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0" etag="asFZ-URai01drjE6x8nz" version="21.7.2" type="github">
   <diagram name="Página-1" id="r8btl06dpMkSg_a-J9Kt">
     <mxGraphModel dx="1195" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -487,6 +487,32 @@
               <mxPoint x="858" y="599" />
               <mxPoint x="858" y="550" />
               <mxPoint x="888" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-3" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="802.46" y="851" as="sourcePoint" />
+            <mxPoint x="802.46" y="871" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="802.46" y="861" />
+              <mxPoint x="802.46" y="861" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-4" value="&lt;font face=&quot;Georgia&quot; color=&quot;#0000ff&quot;&gt;Adquire os pontos de ouro e experiência acumulados para cada pirata e sorteia os itens saqueados.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="737.5" y="890" width="135" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-5" value="&lt;font face=&quot;Georgia&quot; color=&quot;#0000ff&quot;&gt;A Marginalidade do povoado sobe para o limite (97%) e o lugar torna-se neutro, permitindo que o capitão tome o lugar em seu nome.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="580" y="890" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-6" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="694.9000000000001" y="851" as="sourcePoint" />
+            <mxPoint x="650" y="880" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="695" y="860" />
+              <mxPoint x="650" y="860" />
             </Array>
           </mxGeometry>
         </mxCell>
