@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-20T16:52:59.870Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0" etag="asFZ-URai01drjE6x8nz" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-20T16:58:51.032Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0" etag="EsFsikcXU8R7ZgoteUZ2" version="21.7.2" type="github">
   <diagram name="Página-1" id="r8btl06dpMkSg_a-J9Kt">
-    <mxGraphModel dx="1195" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -450,10 +450,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mjb3Go6CUSgynstZT9nR-27" value="&lt;font color=&quot;#0000ff&quot; face=&quot;Georgia&quot;&gt;Habilita lugares baseado nos atributos: Conhecimento + Navegação + Força das velas + Clima&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="890" y="630" width="130" height="84" as="geometry" />
+          <mxGeometry x="886" y="630" width="130" height="84" as="geometry" />
         </mxCell>
         <mxCell id="gT2XUjfs5Xtp8e2Vn2gc-2" value="&lt;font color=&quot;#0000ff&quot; face=&quot;Georgia&quot;&gt;Calcula o Azar da região baseando-se na reputação de seu bando.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1070" y="632" width="140" height="84" as="geometry" />
+          <mxGeometry x="1050" y="632" width="140" height="84" as="geometry" />
         </mxCell>
         <mxCell id="gT2XUjfs5Xtp8e2Vn2gc-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -467,10 +467,10 @@
         <mxCell id="gT2XUjfs5Xtp8e2Vn2gc-4" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="954.8600000000001" y="597" as="sourcePoint" />
-            <mxPoint x="1140" y="620" as="targetPoint" />
+            <mxPoint x="1120" y="620" as="targetPoint" />
             <Array as="points">
               <mxPoint x="955" y="607" />
-              <mxPoint x="1140" y="607" />
+              <mxPoint x="1120" y="607" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -514,6 +514,44 @@
               <mxPoint x="695" y="860" />
               <mxPoint x="650" y="860" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-7" value="&lt;font face=&quot;Georgia&quot; color=&quot;#0000ff&quot;&gt;O capitão é preso por um período determinado de até 3 dias, sendo liberto com metade da vida, pouco ouro, navio danificado e pouca comida.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="890" y="890" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-8" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="914.9000000000001" y="851" as="sourcePoint" />
+            <mxPoint x="960" y="880" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="915" y="860" />
+              <mxPoint x="960" y="860" />
+              <mxPoint x="960" y="880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-9" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1050" y="949.86" as="sourcePoint" />
+            <mxPoint x="1070" y="949.86" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-10" value="Derrota" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Georgia;strokeColor=#000000;strokeWidth=2;fontColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="1085" y="764" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-11" value="Derrota" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Georgia;strokeColor=#000000;strokeWidth=2;fontColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="764" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-12" value="Derrota" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Georgia;strokeColor=#000000;strokeWidth=2;fontColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="764" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-13" value="Derrota" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Georgia;strokeColor=#000000;strokeWidth=2;fontColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="639" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-15" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1200" y="673.83" as="sourcePoint" />
+            <mxPoint x="1220" y="673.83" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
