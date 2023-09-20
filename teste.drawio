@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-20T17:45:34.475Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0" etag="E1PsfDD3iQ1DHjNWb3la" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-20T18:24:56.469Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0" etag="E_iJvWgIAcbCHqEKQsWD" version="21.7.2" type="github">
   <diagram name="Página-1" id="r8btl06dpMkSg_a-J9Kt">
     <mxGraphModel dx="1195" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -640,6 +640,21 @@
               <mxPoint x="1325" y="742" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-30" value="Maior chance de monstros." style="shape=manualInput;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Georgia;fontColor=#00CC00;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="1010" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-31" value="Maior chance de Embarcações Fantasmas." style="shape=manualInput;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Georgia;fontColor=#00CC00;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="1120" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-32" value="Maior chance de piratas." style="shape=manualInput;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Georgia;fontColor=#00CC00;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="1285" y="1010" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-33" value="Maior chance de galeões." style="shape=manualInput;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Georgia;fontColor=#00CC00;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="1120" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-34" value="Maior chance de corsários." style="shape=manualInput;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Georgia;fontColor=#00CC00;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="1417.5" y="890" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
