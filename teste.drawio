@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-20T18:25:36.333Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0" etag="2aZvFqOVKZdRm6oGABDb" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-25T16:40:30.017Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0" etag="aUce6pIbJ86yUc2N2-9a" version="21.8.2" type="github">
   <diagram name="Página-1" id="r8btl06dpMkSg_a-J9Kt">
     <mxGraphModel dx="1195" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -164,7 +164,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RJfbXglSynKKVRKX5XGn-24" value="&lt;font color=&quot;#0000ff&quot; face=&quot;Georgia&quot;&gt;COMEÇA O JOGO!&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="RJfbXglSynKKVRKX5XGn-24" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;b&gt;COMEÇA O JOGO!&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;fontColor=#660066;" parent="1" vertex="1">
           <mxGeometry x="80" y="650" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RJfbXglSynKKVRKX5XGn-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.429;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
@@ -477,7 +477,7 @@
         <mxCell id="gT2XUjfs5Xtp8e2Vn2gc-5" value="&lt;div&gt;&lt;font color=&quot;#0000ff&quot; face=&quot;Georgia&quot;&gt;Mostra dados da área selecionada:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#0000ff&quot; face=&quot;Georgia&quot;&gt;Distância, Tempo de viagem, Azar&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="902.5" y="390" width="105" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="918" y="619" as="sourcePoint" />
             <mxPoint x="896" y="550" as="targetPoint" />
@@ -490,7 +490,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-3" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;" edge="1" parent="1">
+        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-3" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="802.46" y="851" as="sourcePoint" />
             <mxPoint x="802.46" y="871" as="targetPoint" />
@@ -500,13 +500,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-4" value="&lt;font face=&quot;Georgia&quot; color=&quot;#0000ff&quot;&gt;Adquire os pontos de ouro e experiência acumulados para cada pirata e sorteia os itens saqueados.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-4" value="&lt;font face=&quot;Georgia&quot; color=&quot;#0000ff&quot;&gt;Adquire os pontos de ouro e experiência acumulados para cada pirata e sorteia os itens saqueados.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="737.5" y="890" width="135" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-5" value="&lt;font face=&quot;Georgia&quot; color=&quot;#0000ff&quot;&gt;A Marginalidade do povoado sobe para o limite (97%) e o lugar torna-se neutro, permitindo que o capitão tome o lugar em seu nome.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-5" value="&lt;font face=&quot;Georgia&quot; color=&quot;#0000ff&quot;&gt;A Marginalidade do povoado sobe para o limite (97%) e o lugar torna-se neutro, permitindo que o capitão tome o lugar em seu nome.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="580" y="890" width="140" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-6" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;" edge="1" parent="1">
+        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-6" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="694.9000000000001" y="851" as="sourcePoint" />
             <mxPoint x="650" y="880" as="targetPoint" />
@@ -516,10 +516,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-7" value="&lt;font face=&quot;Georgia&quot; color=&quot;#0000ff&quot;&gt;O capitão é preso por um período determinado de até 3 dias, sendo liberto com metade da vida, pouco ouro, navio danificado e pouca comida.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-7" value="&lt;font face=&quot;Georgia&quot; color=&quot;#0000ff&quot;&gt;O capitão é preso por um período determinado de até 3 dias, sendo liberto com metade da vida, pouco ouro, navio danificado e pouca comida.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="890" y="890" width="140" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-8" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;" edge="1" parent="1">
+        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-8" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="914.9000000000001" y="851" as="sourcePoint" />
             <mxPoint x="960" y="880" as="targetPoint" />
@@ -530,25 +530,25 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-10" value="Vermelho" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Georgia;strokeColor=#000000;strokeWidth=2;fontColor=#FF8000;" vertex="1" parent="1">
+        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-10" value="Vermelho" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Georgia;strokeColor=#000000;strokeWidth=2;fontColor=#FF8000;" parent="1" vertex="1">
           <mxGeometry x="1085" y="764" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-11" value="Laranja" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Georgia;strokeColor=#000000;strokeWidth=2;fontColor=#FF8000;" vertex="1" parent="1">
+        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-11" value="Laranja" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Georgia;strokeColor=#000000;strokeWidth=2;fontColor=#FF8000;" parent="1" vertex="1">
           <mxGeometry x="1190" y="764" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-12" value="Azul" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Georgia;strokeColor=#000000;strokeWidth=2;fontColor=#FF8000;" vertex="1" parent="1">
+        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-12" value="Azul" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Georgia;strokeColor=#000000;strokeWidth=2;fontColor=#FF8000;" parent="1" vertex="1">
           <mxGeometry x="1290" y="764" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-13" value="Ciano" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Georgia;strokeColor=#000000;strokeWidth=2;fontColor=#FF8000;" vertex="1" parent="1">
+        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-13" value="Ciano" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Georgia;strokeColor=#000000;strokeWidth=2;fontColor=#FF8000;" parent="1" vertex="1">
           <mxGeometry x="1230" y="639" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-15" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;" edge="1" parent="1">
+        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-15" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1200" y="673.83" as="sourcePoint" />
             <mxPoint x="1220" y="673.83" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-16" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;" edge="1" parent="1">
+        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-16" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="959.86" y="1030" as="sourcePoint" />
             <mxPoint x="890" y="1060" as="targetPoint" />
@@ -558,10 +558,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-17" value="&lt;font face=&quot;Georgia&quot; color=&quot;#0000ff&quot;&gt;Seus marujos serão soltos em Tavernas aleatórias pelo mundo, onde custarão nenhum ouro e saudarão o capitão quando voltarem ao bando.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-17" value="&lt;font face=&quot;Georgia&quot; color=&quot;#0000ff&quot;&gt;Seus marujos serão soltos em Tavernas aleatórias pelo mundo, onde custarão nenhum ouro e saudarão o capitão quando voltarem ao bando.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="737.5" y="1000" width="135" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-18" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;" edge="1" parent="1">
+        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-18" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1119.8600000000001" y="730" as="sourcePoint" />
             <mxPoint x="1119.8600000000001" y="750" as="targetPoint" />
@@ -571,7 +571,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-19" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;" edge="1" parent="1">
+        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-19" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1160" y="730" as="sourcePoint" />
             <mxPoint x="1224.88" y="755" as="targetPoint" />
@@ -581,22 +581,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-20" value="Avançar" style="shape=manualInput;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Georgia;fontColor=#00CC00;verticalAlign=bottom;" vertex="1" parent="1">
+        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-20" value="Avançar" style="shape=manualInput;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Georgia;fontColor=#00CC00;verticalAlign=bottom;" parent="1" vertex="1">
           <mxGeometry x="920" y="280" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-21" value="&lt;font face=&quot;Georgia&quot; color=&quot;#0000ff&quot;&gt;&quot;Águas pacíficas. A viagem será abençoada por Netuno.&quot;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-21" value="&lt;font face=&quot;Georgia&quot; color=&quot;#0000ff&quot;&gt;&quot;Águas pacíficas. A viagem será abençoada por Netuno.&quot;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1195" y="510.5" width="115" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-22" value="&lt;font face=&quot;Georgia&quot; color=&quot;#0000ff&quot;&gt;&quot;Mar revolto. Devemos nos manter em alerta todo o tempo.&quot;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-22" value="&lt;font face=&quot;Georgia&quot; color=&quot;#0000ff&quot;&gt;&quot;Mar revolto. Devemos nos manter em alerta todo o tempo.&quot;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1267.5" y="877" width="115" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-23" value="&lt;font face=&quot;Georgia&quot; color=&quot;#0000ff&quot;&gt;&quot;Águas agitadas. A viagem será boa, porém teremos que ajustar a rota.&quot;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-23" value="&lt;font face=&quot;Georgia&quot; color=&quot;#0000ff&quot;&gt;&quot;Águas agitadas. A viagem será boa, porém teremos que ajustar a rota.&quot;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1400" y="757" width="115" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-24" value="&lt;font face=&quot;Georgia&quot; color=&quot;#0000ff&quot;&gt;&quot;Tormenta. A ira de Njörd nos persegue tempestade adentro.&quot;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-24" value="&lt;font face=&quot;Georgia&quot; color=&quot;#0000ff&quot;&gt;&quot;Tormenta. A ira de Njörd nos persegue tempestade adentro.&quot;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1115" y="877" width="115" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-25" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;" edge="1" parent="1">
+        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-25" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1120" y="840" as="sourcePoint" />
             <mxPoint x="1170" y="870" as="targetPoint" />
@@ -606,7 +606,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-26" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;" edge="1" parent="1">
+        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-26" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1225" y="840" as="sourcePoint" />
             <mxPoint x="1320" y="870" as="targetPoint" />
@@ -618,19 +618,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-27" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;" edge="1" parent="1">
+        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-27" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1370" y="798.86" as="sourcePoint" />
             <mxPoint x="1390" y="798.86" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1264.9" y="630" as="sourcePoint" />
             <mxPoint x="1264.9" y="607" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-29" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;" edge="1" parent="1">
+        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-29" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1200" y="700" as="sourcePoint" />
             <mxPoint x="1324.88" y="757" as="targetPoint" />
@@ -641,22 +641,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-30" value="Maior chance de monstros." style="shape=manualInput;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Georgia;fontColor=#00CC00;verticalAlign=bottom;" vertex="1" parent="1">
+        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-30" value="Maior chance de monstros." style="shape=manualInput;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Georgia;fontColor=#00CC00;verticalAlign=bottom;" parent="1" vertex="1">
           <mxGeometry x="1140" y="1010" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-31" value="Maior chance de Embarcações Fantasmas." style="shape=manualInput;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Georgia;fontColor=#00CC00;verticalAlign=bottom;" vertex="1" parent="1">
+        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-31" value="Maior chance de Embarcações Fantasmas." style="shape=manualInput;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Georgia;fontColor=#00CC00;verticalAlign=bottom;" parent="1" vertex="1">
           <mxGeometry x="1130" y="1120" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-32" value="Maior chance de piratas." style="shape=manualInput;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Georgia;fontColor=#00CC00;verticalAlign=bottom;" vertex="1" parent="1">
+        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-32" value="Maior chance de piratas." style="shape=manualInput;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Georgia;fontColor=#00CC00;verticalAlign=bottom;" parent="1" vertex="1">
           <mxGeometry x="1285" y="1010" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-33" value="Maior chance de galeões." style="shape=manualInput;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Georgia;fontColor=#00CC00;verticalAlign=bottom;" vertex="1" parent="1">
+        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-33" value="Maior chance de galeões." style="shape=manualInput;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Georgia;fontColor=#00CC00;verticalAlign=bottom;" parent="1" vertex="1">
           <mxGeometry x="1280" y="1120" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-34" value="Maior chance de cardumes." style="shape=manualInput;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Georgia;fontColor=#00CC00;verticalAlign=bottom;" vertex="1" parent="1">
+        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-34" value="Maior chance de cardumes." style="shape=manualInput;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Georgia;fontColor=#00CC00;verticalAlign=bottom;" parent="1" vertex="1">
           <mxGeometry x="1427.5" y="1010" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-35" value="Maior chance de corsários." style="shape=manualInput;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Georgia;fontColor=#00CC00;verticalAlign=bottom;" vertex="1" parent="1">
+        <mxCell id="k0Hw7Ad9MmOJSu_3YrF0-35" value="Maior chance de corsários." style="shape=manualInput;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Georgia;fontColor=#00CC00;verticalAlign=bottom;" parent="1" vertex="1">
           <mxGeometry x="1427.5" y="900" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
